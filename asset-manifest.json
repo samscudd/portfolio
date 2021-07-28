@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.4ad7aa32.chunk.css",
-    "main.js": "/static/js/main.93a8a89d.chunk.js",
-    "main.js.map": "/static/js/main.93a8a89d.chunk.js.map",
+    "main.js": "/static/js/main.eb9cbc16.chunk.js",
+    "main.js.map": "/static/js/main.eb9cbc16.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4f75dfd7.js",
     "runtime-main.js.map": "/static/js/runtime-main.4f75dfd7.js.map",
     "static/css/2.7b1c032f.chunk.css": "/static/css/2.7b1c032f.chunk.css",
-    "static/js/2.54af44d5.chunk.js": "/static/js/2.54af44d5.chunk.js",
-    "static/js/2.54af44d5.chunk.js.map": "/static/js/2.54af44d5.chunk.js.map",
+    "static/js/2.aa7331eb.chunk.js": "/static/js/2.aa7331eb.chunk.js",
+    "static/js/2.aa7331eb.chunk.js.map": "/static/js/2.aa7331eb.chunk.js.map",
     "static/js/3.648d2c17.chunk.js": "/static/js/3.648d2c17.chunk.js",
     "static/js/3.648d2c17.chunk.js.map": "/static/js/3.648d2c17.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.7b1c032f.chunk.css.map": "/static/css/2.7b1c032f.chunk.css.map",
     "static/css/main.4ad7aa32.chunk.css.map": "/static/css/main.4ad7aa32.chunk.css.map",
-    "static/js/2.54af44d5.chunk.js.LICENSE.txt": "/static/js/2.54af44d5.chunk.js.LICENSE.txt",
+    "static/js/2.aa7331eb.chunk.js.LICENSE.txt": "/static/js/2.aa7331eb.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/DK-Lemon-Yellow-Sun.3d5b997e.otf",
     "static/media/DesignLab.6ad2bb72.png": "/static/media/DesignLab.6ad2bb72.png",
     "static/media/FoodPantry.3ca6698f.png": "/static/media/FoodPantry.3ca6698f.png",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.4f75dfd7.js",
     "static/css/2.7b1c032f.chunk.css",
-    "static/js/2.54af44d5.chunk.js",
+    "static/js/2.aa7331eb.chunk.js",
     "static/css/main.4ad7aa32.chunk.css",
-    "static/js/main.93a8a89d.chunk.js"
+    "static/js/main.eb9cbc16.chunk.js"
   ]
 }
